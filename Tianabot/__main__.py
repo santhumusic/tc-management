@@ -82,14 +82,9 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*Hᴇʟʟᴏ {} * [!]({})
-───────────────────────
-× *I'ᴍ Aɴɪᴍᴇ-Tʜᴇᴍᴇ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ*
-× *I'ᴍ Vᴇʀʏ Fᴀꜱᴛ Aɴᴅ Mᴏʀᴇ Eꜰꜰɪᴄɪᴇɴᴛ I Pʀᴏᴠɪᴅᴇ Aᴡᴇꜱᴏᴍᴇ Fᴇᴀᴛᴜʀᴇꜱ!*
-───────────────────────
-× *Uᴘᴛɪᴍᴇ:* `{}`
+*👋🏻Hello {} * [!]({})\n*Iam a Mr.nobi Anime Themed management bot with useful modules*\n×*Iam a most smoothly and smart management bot now add to your group type /help for commands!*\n\n
 × `{}` *Uꜱᴇʀ, Aᴄʀᴏꜱꜱ* `{}` *Cʜᴀᴛꜱ.*
-───────────────────────"""
+"""
 
 buttons = [
     [
